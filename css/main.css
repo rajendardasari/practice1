@@ -11,15 +11,7 @@ h3, p{font-family:'myriad pro';}
          url('../fonts/MyriadProBlack.svg#MyriadProBlack') format('svg');
 }
 
-@font-face {
-    font-family: 'MyriadProLight';
-    src: url('../fonts/MyriadProLight.eot');
-    src: url('../fonts/MyriadProLight.eot') format('embedded-opentype'),
-         url('../fonts/MyriadProLight.woff2') format('woff2'),
-         url('../fonts/MyriadProLight.woff') format('woff'),
-         url('../fonts/MyriadProLight.ttf') format('truetype'),
-         url('../fonts/MyriadProLight.svg#MyriadProLight') format('svg');
-}
+
 
 .clear{clear:both;}
 /*Navigation starts------------------------------------------------- */
